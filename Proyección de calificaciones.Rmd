@@ -1,0 +1,47 @@
+---
+title: "PROYECCIÓN DE CALIFICACIONES"
+author: "Aylin Ramos Herrera"
+date: "4 de febrero de 2017"
+output: html_document
+---
+
+Este documento muestra las materias que he tomado en la licenciatura en Actuaría y sus correspondientes calificaciones.
+
+###**Primer semestre**
+
+**Asignatura**                   | **Calificación**
+-------------------------------  | -------------------------------
+Matemáticas básicas              |       8
+Problemas de matemáticas básicas |       8
+Conceptos de Cálculo             |       9
+Programación Actuarial I         |       9
+Intr. a la profesión Actuarial   |       8
+DHPC                             |       8
+
+
+
+
+###**Segundo semestre**
+
+**Asignatura**                   | **Calificación**
+-------------------------------  | -------------------------------
+Teoría de ecuaciones             |       9
+Geometría analítica              |       10
+Cálculo diferencial              |       8
+Programación Actuarial II        |       6
+Teoría del Interés I             |       7
+
+
+
+###**Tercer semestre**
+
+**Asignatura**                   | **Calificación**
+-------------------------------  | -------------------------------
+Microeconomía                    |       10
+Formación Humana y Social        |       10
+Registros Acad. y Cientificos    |       9
+Teoría del Interés II            |       9
+Macroeconomía                    |       10
+
+
+
